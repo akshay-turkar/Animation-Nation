@@ -4814,6 +4814,13 @@ let cards = [
     imageLink: './Art/ElizavetaZhukova1/fourSquaresEdit.gif',
     author: 'Liza',
     githubLink: 'https://github.com/ElizavetaZhukova1'
+  },
+  {
+    artName: 'Shades-of-sky',
+    pageLink: './Art/Akshay/index.html',
+    imageLink: './Art/gif2.gif',
+    author: 'Akshay',
+    githubLink: 'https://github.com/akshay-turkar'
   }
 ];
 // +--------------------------------------------------------------------------------+
